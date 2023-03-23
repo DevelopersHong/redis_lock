@@ -1,4 +1,4 @@
-package rlock
+package redis_lock
 
 import "time"
 

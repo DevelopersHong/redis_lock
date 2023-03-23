@@ -1,1 +1,3 @@
-#TitleStylist_flaskAPI
+# 基于Redis的分布式锁
+ - Go版本、Python版本
+ - 手动加锁，加锁重试，手动续约，自动续约，解锁等基础操作
